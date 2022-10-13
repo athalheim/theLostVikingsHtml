@@ -32,13 +32,13 @@
     to confine character movements
 
   -Vikings module:
-    Control: Switch character
-    Control movements: 
-     -Left-right
-     -Up/down ladders
+    Control key: Switch character
+    Movements: 
+     -Left-right: floors, float, fall
+     -Up/down: ladders
      -Fall (all)
      -Jump (Erik)
-     -Float (Olaf)
+     -Float (Olaf, anti-G)
      
   -Characters: Erik, Baleog and Olaf:
     Access primary ability
@@ -56,12 +56,11 @@
     
   
  What remains to do:
-   -Characters: Erik, Baleog and Olaf:
-    Animate!!!
-    Access secondary ability
-    Activate controls
-    Access and use inventory
-   -Scenes 3 to 37:
+   Animate characters: Erik, Baleog and Olaf:
+   Access secondary ability
+   Activate controls
+   Access and use inventory
+   Scenes 3 to 37:
       Build scenes
 
 Enjoy!
